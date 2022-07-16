@@ -1,0 +1,49 @@
+.Header{
+    border: 200px 600px;
+    border-style: groove;
+    border-width:2px;
+    border-top-style: medium;
+  border-right-style: medium;
+  border-bottom-style: medium;
+  border-left-style: medium;
+  border-bottom-width: 100%;
+  position: fixed;
+  text-align:center ;
+  padding: auto;
+  border-radius: 10%;
+  
+  
+    
+}
+.border{
+    border: 2px 2px;
+    border-style: groove;
+    border-width: 2px;
+    border-top-style: medium;
+  border-right-style: medium;
+  border-bottom-style: medium;
+  border-left-style: medium;
+}
+.popup.box {
+  display: none;
+  position: fixed;
+  background-color: black;
+  left: 300px;
+  top: 50px;
+  width: 50%;
+  height: 10rem;
+}
+.box{
+  position: fixed;
+  min-height: 200px;
+  top: 100px;
+  width: 50%;
+  left: 600px;
+  background:local;
+  background-color: #421d1d;
+  border: 2px rgb(15, 15, 15);
+  overflow:scroll;
+
+}
+
+
